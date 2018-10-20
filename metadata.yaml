@@ -1,5 +1,5 @@
 _repo: Arachne-Volume-05_5512
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
 - !lcsh 'Egypt -- History -- 332-30 B.C. -- Fiction'
+- GITenberg
 title: Arachne — Volume 05
 url: http://www.gutenberg.org/ebooks/5512
